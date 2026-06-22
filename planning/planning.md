@@ -2,7 +2,7 @@
 
 _Written by Mushthafa Sinuhaji_
 _Created 2026-06-21_
-_Last Updated 2026-06-21_
+_Last Updated 2026-06-22_
 
 Keywords: neural network; multilayer perceptron; pareto optimisation; gradient descent; analog systems; digital systems
 
